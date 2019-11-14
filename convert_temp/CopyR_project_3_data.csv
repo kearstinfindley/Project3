@@ -1,0 +1,29 @@
+Genus,species,Site_number,Temp,spC,DO,pH,Salinity,DO,Turbidity,TDS,Latitude,Longitude,decimalLatitude,decimalLongitude,Drainage,Site_description,Parish,State,Known_Unknown,Model_Probabilities,Species_found ,Number_of_munitus,Date _collected,
+Cyprinella ,camura,001,27.27,0.1,0.67,6.45,0.05,10.4,6.1,0.1,N 30' 58' 07.1,W 91' 19' 15.1,30.96863889,-91.32086111,Lower Mississippi,West Fork Thompson creek off CR 714 bridge,West Feliciana,Louisiana,Known,79,Yes,38,0,6/22/2019
+Cyprinella ,camura,002,30.03,0.069,0.68,7.42,0.04,10.3,6.0,0.1,N 30' 56' 24.0,W 91' 14' 58.2,30.94,-91.2495,Lower Mississippi,Middle Fork Thompson Creek off 421 bridge,West Feliciana,Louisiana,Known,78,Yes,159,0,6/22/2019
+Cyprinella ,camura,003,23.93,0.068,0.84,7.05,0.04,11.1,184,0.0,N 30' 49' 34.1,W 91' 22' 27.5,30.82613889,-91.37430556,Lower Mississippi,Alexander Creek off Baines Rd Bridge,West Feliciana,Louisiana,Unknown,55,No,0,0,6/26/2019
+Cyprinella ,camura,004,26.33,0.078,1.01,7.29,0.04,12.8,3.8,0.1,N 30' 54' 59.0,W 91' 23' 12.2,30.91638889,-91.38672222,Lower Mississippi,Scott's Creek off Island Rd Bridge,West Feliciana,Louisiana,Unknown,62,No,0,0,6/26/2019
+Cyprinella ,camura,005,30.81,0.113,0.81,7.36,0.06,12.4,52.7,0.1,N 30' 57' 53.8,W 91' 24' 21.4,30.96494444,-91.40594444,Lower Mississippi,Bayou Sara off Sligo Rd bridge,West Feliciana,Louisiana,Unknown,48,No,0,0,6/26/2019
+Cyprinella ,camura,006,22.42,0.061,0.96,7.41,0.03,12.6,9.3,0.0,N 30' 52' 50.2,W 91' 11' 22.0,30.88061111,-91.18944444,Lower Mississippi,Beaver Creek bridge,East Feliciana,Louisiana,Known,79,Yes,132,58,6/28/2019
+Cyprinella ,camura,007,29.80,0.079,0.90,7.02,0.04,11.8,8.7,0.1,N 30' 58' 09.7,W 91' 11' 32.5,30.96936111,-91.19236111,Lower Mississippi,Thompson Creek bridge ,West Feliciana,Louisiana,Unknown,80,Yes,114,67,6/28/2019
+Cyprinella ,camura,008,32.98,0.086,0.80,6.84,0.06,12.6,17.4,0.1,N 30' 50' 40.7,W 91' 24' 17.1,30.84463889,-91.40475,Lower Mississippi,Bayou Sara off bridge on 66,West Feliciana,Louisiana,Known,66,No,0,63,6/28/2019
+Hybopsis,winchelli,FWBTangi,26.93,0.05,0.67,6.5,NA,9.8,14.6,0,NA,NA,30.5037,-90.3622,Pontchartrain,Tangipahoa River off Hwy 190 at Hidden Oaks Family Campground,Tangipahoa,Louisiana,known,79,yes,67,,
+Hybopsis,winchelli,028,18.0,0.04,0.72,6.31,0.03,8.8,36.5,0,N 30' 54' 2.8,W -89' 51' 32.4,30.90007,-89.859,Pearl,Pushepatapa Creek off Par 6 Rd,Washington,Louisiana,unknown,38,no,0,10/18/2019,
+Hybopsis,winchelli,029,17.98,0.002,0.57,6.15,0.02,7.4,18.6,0,N 30' 46' 11.4,W -89' 53' 29.9,30.76983,-89.891638,Pearl,Bogue Lusa off Hwy 439,Washington,Louisiana,unknown,63,no,0,10/19/2019,
+Hybopsis,winchelli,030,17.98,0.043,0.77,6.32,0.02,8.4,22.1,0,N 30' 49' 15.6,W -90' 7' 31.2,30.821,-90.125333,Pearl,Lawrence Creek off Hwy 1072 ,Washington,Louisiana,known,72,no,0,10/19/2019,
+Hybopsis,winchelli,031,19.91,0.041,0.72,6.64,0.02,8.4,22.3,0,N 30' 55' 20.7,W -90' 12' 16.2,30.92241667,-90.2045,Pearl,Bogue Chitto off Hwy 38,Washington,Louisiana,known,64,yes,2,10/19/2019,
+Noturus,munitus,019,25.0,0.134,0.82,6.22,0.07,12.1,46,0.1,N 30' 42' 11.9,W -89' 50' 46.1,30.70330556,-89.84613889,Pearl,Pearl River at Pools sill bluff,Washington,Louisiana,known,81,No,0,10/12/2019,
+Noturus,munitus,020,24.0,0.043,0.88,6.82,0.03,11.4,29,0,N 30' 38' 13.5,W -89' 57' 28.1,30.637083,-89.95780556,Pearl,Bogue Chitto at 5 lakes campground,St. Tammany,Louisiana,unknown,66,yes,1,10/12/2019,
+Noturus,munitus,021,20.2,0.046,0.76,6.42,0.03,10.1,10,0,N 30' 59' 25.5,W -90' 11' 46.2,30.9904167,-90.196166,Pearl,Bogue Chitto off Hwy 438,Washington,Louisiana,known,64,yes,3,10/13/2019,
+Noturus,munitus,022,21.3,0.046,0.88,6.47,0.03,10.4,10.8,0,N 30' 55' 21.6,W -90' 12' 16.2,30.92267,-90.2045,Pearl,Bogue Chitto off Hwy 38,Washinton,Louisiana,known,61,yes,5,10/13/2019,
+Noturus,munitus,023,20.6,0.035,0.79,6.46,0.02,10.2,20.1,0,N 30' 53' 16.3,W -90' 11' 28.2,30.887861,-90.191166,Pearl,Hays Creek off Hwy 25 outside Franklinton,Washington,Louisiana,unknown,50,yes,1,10/13/2019,
+Noturus,munitus,024,23.0,0.038,0.93,6.03,0.02,10.1,34.3,0,N 30' 43' 3.6,W -90' 5' 10.3,30.717667,-90.086194,Pearl,Bogue Chitto 1/2 mile south of Hwy 16 and 1/4 mile west of Hwy 437 gravel road after Enon Baptist Church,Washington,Louisiana,known,75,yes,1,10/16/2019,
+Noturus,munitus,025,19.6,0.037,0.65,6.34,0.02,8.6,49.5,0,N 30' 49' 55.4,W -90' 9' 51.8,30.832055,-90.1643888,Pearl,Bogue Chitto off boat ramp rd,Washington,Louisiana,unknown,32,yes,3,10/17/2019,
+Noturus,munitus,026,20.7,0.046,0.64,6.56,0.03,8.5,103,0,N 30' 48' 25.9,W -90' 08' 34.1,30.807194,-90.159472,Pearl,Lawrence Creek off Hwy 16,Washington,Louisiana,unknown,51,no,0,10/17/2019,
+Noturus,munitus,028,18.0,0.04,0.72,6.31,0.03,8.8,36.5,0,N 30' 54' 2.8,W -89' 51' 32.4,30.90007,-89.859,Pearl,Pushepatapa Creek off Par 6 Rd,Washington,Louisiana,unknown,4,yes,1,10/18/2019,
+Noturus,munitus,030,17.98,0.043,0.77,6.32,0.02,8.4,22.1,0,N 30' 49' 15.6,W -90' 07' 31.2,30.821,-90.125333,Pearl,Lawrence Creek off Hwy 1072 ,Washington,Louisiana,unknown,41,yes,1,10/19/2019,
+Percina,lenticula,017,30.77,0.122,0.73,6.08,0.06,10.8,40.04,0.0,N 30' 42' 12.4,W 89' 50' 47.0,30.70344444,-89.8463888888889,Pearl ,Below Pools Bluff Sill,Washington,Louisiana,Known,79,No,0,7/6/2019,
+Percina,lenticula,018,29.31,0.044,0.64,6.66,0.03,9.9,15.3,0.0,N 30' 38' 13.7,W 89' 57' 28.1,30.63713889,-89.9578055555556,Pearl,In 5 Lakes Boyscout campground,St. Tammany,Louisiana,Unknown,62,No,0,7/9/2019,
+Percina,lenticula,B,NA,NA,NA,NA,NA,NA,NA,NA,N 30' 46' 81.4,W 89' 49' 59.2,30.78927778,-89.8331111111111,Pearl ,one river mile south of LA Hwy. 10 Bridge,Washington,Louisiana,Known,42,No,0,NA,
+Percina,lenticula,2,NA,NA,NA,NA,NA,NA,NA,NA,N 30' 45' 93.2,W 89' 50' 05.4,30.77588889,-89.8348333333333,Pearl ,Opposite mouth of Bogue Lusa Creek,Washington,Louisiana,Known,74,No,0,NA,
+Percina,lenticula,5,NA,NA,NA,NA,NA,NA,NA,NA,N 30' 44' 38.1,W89' 49' 71.8,30.74391667,-89.8366111111111,Pearl ,River Mile 54,Washinton,Louisiana,Known,77,No,0,NA,
