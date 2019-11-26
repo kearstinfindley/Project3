@@ -1,0 +1,19 @@
+Package: KFLocal
+Type: Package
+Title: Plot and Convert Locality Information
+Version: 1.0.0
+Author@R: person("Kearstin", "Findley", role = c("aut", "cre"), email = "kearstin.findley@selu.edu")
+Description: An R package to plot and convert locality information based on coordinates.
+License: MIT
+Imports: 
+tidyverse,
+dplyr,
+tidyr,
+leaflet
+Suggest: 
+knitr,
+rmarkdown
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: knitr
+RoxygenNote: 7.0.0

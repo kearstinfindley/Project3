@@ -1,0 +1,77 @@
+---
+title: "PackageInsructions"
+output: html_document
+---
+#Package: KFLocal
+#Title: Plot and Convert Locality Information
+#Description: An R package to plot and convert locality information based on coordinates.
+#URL: https://github.com/kearstinfindley/Project3
+#Date: 2019-11-26
+
+#This package can be downloaded from:
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+dir.create("/cloud/project/KFLocal")
+download.file("https://github.com/kearstinfindley/Project3.git", destfile = "/cloud/project/KFLocal/ProjectThree.git")
+```
+
+#This package requires these dependencies:
+
+```{r cars}
+install.packages("tidyverse")
+library(tidyverse)
+library(dplyr)
+library(tidyr)
+install.packages("leaflet")
+library(leaflet)
+
+```
+
+#Downloading data from github 
+
+```{r}
+
+project_data <- write_csv("/cloud/Project3/data/R_project_3_data.csv")
+```
+
+#Set your data frame to a variable (map)
+```{r}
+map <- project_data
+```
+
+#Create a color palate using levs and factpal to color by genera
+```{r}
+levs <- factor(project_data$Genus)
+factpal <- colorFactor(topo.colors(5), levs)
+```
+
+#Plot map function
+```{r}
+map_genera(project_data)
+```
+
+#Function Two
+
+#Function two separates values in the latitude column by (degree minute seconds, combines the d,m,s in a new column, gets rid of any NA values, and converts from degree minute seconds to decimal degrees
+
+#Downloading data from github 
+
+```{r}
+
+project_data_coord <- write_csv("Project3/data/R_project_3_data_coord.csv")
+```
+
+#Check the data frame to view the conversion
+```{r}
+lat$deg
+```
+
+#Function Three
+
+#Function three separates degree minute seconds in the longitude column and converts the values to numeric values, drops NA values, divides the minute values by 60, divides the second value by 3600, and adds the deg minute seconds values in a new column to convert from dms to dd
+
+#Check the data frame to view the conversion
+```{r}
+dat$finalDMS
+```
