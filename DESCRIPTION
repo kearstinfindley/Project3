@@ -6,13 +6,13 @@ Author@R: person("Kearstin", "Findley", role = c("aut", "cre"), email = "kearsti
 Description: An R package to plot and convert locality information based on coordinates.
 License: MIT
 Imports: 
-tidyverse,
-dplyr,
-tidyr,
-leaflet
+  tidyverse,
+  dplyr,
+  tidyr,
+  leaflet
 Suggest: 
-knitr,
-rmarkdown
+  knitr,
+  rmarkdown
 Encoding: UTF-8
 LazyData: true
 VignetteBuilder: knitr
