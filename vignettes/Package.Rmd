@@ -32,7 +32,7 @@ library(leaflet)
 
 ```{r}
 
-project_data <- write_csv("/cloud/Project3/data/R_project_3_data.csv")
+ download.file("https://raw.githubusercontent.com/kearstinfindley/Project3/master/data/R_project_3_data.csv", destfile = "project_data.csv")
 ```
 
 #Set your data frame to a variable (map)
@@ -59,7 +59,7 @@ map_genera(project_data)
 
 ```{r}
 
-project_data_coord <- write_csv("Project3/data/R_project_3_data_coord.csv")
+download.file("https://raw.githubusercontent.com/kearstinfindley/Project3/master/data/R_project_3_data_coord.csv", destfile = "project_data_coord")
 ```
 
 #Check the data frame to view the conversion
